@@ -1,0 +1,129 @@
+body{
+background: -webkit-linear-gradient(left, red , blue);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;}
+
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+width: 100%;
+margin-right: 0px;
+overflow: hidden;
+background-color: green;
+}
+
+li {
+padding-right: 0px;
+margin-right: 0px;
+float: center;}
+
+li a {
+  justify-content: center;
+display: flex;
+color: white;
+text-align: center;
+padding: 10px;
+padding-left: 20px;
+padding-right: 50px;
+text-decoration: none;}
+
+li a:hover {
+background-color: black;}
+
+.home2 {
+background-color: blue;
+color: white;
+padding: 20px;
+justify-content: center;
+align-items: center;}
+
+h1{
+text-shadow: 0px 0px 5px yellow, 0px -5px 5px red; 
+font-family: "verdana";
+text-color: green;
+font-size: 60px;
+text-align: center; 
+justify-content: center;
+}
+
+h5{
+text-shadow: 0px 0px 5px yellow, 0px -5px 5px red; 
+font-family: "verdana";
+text-color: purple;
+font-size: 20px;
+text-align: center;
+justify-content: center;
+}
+
+.sample
+{
+justify-content: left;
+align-items: center;
+align-self: left;
+}
+.m1{
+  display: inline-flex;
+  justify-content: left;
+  align-items: left;
+  margin-left: 42vh;
+  margin-right: 0vh;
+  margin-top: 0vh;
+}
+.logo{
+  display: block;
+  justify-content: center;
+  align-items: left;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+.top{
+  position: center;
+  background-color: red; 
+  text-align: center; 
+  float: center;
+  text-underline: none;
+ border: 2px solid green;
+border-top-color: red;
+border-bottom-color: blue;
+border-right-color: black;
+border-left-color: orange;
+}
+
+.menu{
+display: none; 
+height: 500px;
+width: 300px;
+position: absolute;
+background: linear-gradient(to top,skyblue,lightgreen);
+background-attachment: fixed;
+position: fixed;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid green;
+border-top-color: red;
+border-bottom-color: blue;
+border-right-color: black;
+border-left-color: orange;
+}
+
+.img-center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo{
+  display: block;
+  justify-content: center;
+  align-items: left;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+.img{
+  position: center;
+  float: center;
+}
+

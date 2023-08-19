@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="cordova.js" ></script>
+<script type="text/javascript" src="script.js" ></script>
+
+<link rel="icon"href="logo.png"type="image/x-icon">
+<title>Presdor Online Center</title>
+<link rel="stylesheet" type="text/css" href="style2.css">
+<script type="text/javascript" src="script2.js"></script>
+</head>
+<body>
+
+<div id="sample" class="menu4"><div class="m1">
+	<img src="images/cancel.png" onclick="hide();"></div>
+
+
+<ul>
+<li><a href="index.htmls"><strong>Home</b></strong></li></a>
+<li><a href="links\menu\setting.html"> <b>Settings</b></a></li>
+<li><a href="links\menu\shop.html"> <b>Shop</b></a></li>
+<li><a href="links\menu\about.html"> <b>About</b></a></li>
+</ul>
+<hr>
+
+</div></div>
+<img src="images/menu.png" onclick="show();"></div>
+
+<IMG src="images/logo.jpg" width="50%" height="400px" id="Logo" alt="Web Logo" class="logo"><br>
+<hr>
+</div></div></div>
+<br>
+
+
+
+
+<h1 style="color:green";><h2 style="font-size:100%;">
+<h1>Welcome To Offline Programming Languages Tutorials</h1>
+<h2>You are in the right way!
+
+<h3 style="text-align:left"><h3 style="color:black";><h2 style="font-size:77%;">
+<h3>Learning is success in life, So is time to acquire knowledge.</h3>
+<h5 style="text-align: center"><h5 style="color:green";><h5 style="font-size:99%";></h5></h3></h2>
+
+<div class="home2">
+<div class="img">
+<IMG src="images/html.png" class="img-center">
+<h5>The language for building web pages</h5><br>
+<a href="links/l-html.html">
+<IMG src="images/l-html.png" class="img-center"></a><br><hr>
+
+<IMG src="images/css.png" class="img-center">
+<h5>The language for styling web pages</h5><br>
+<a href="links/l-css.html">
+<IMG src="images/l-css.png" class="img-center"></a><br><hr>
+
+
+<IMG width="" height="" src="images/js.png" class="img-center">
+<h5>The language for programming web pages</h5><br>
+<a href="links/l-js.html">
+<IMG src="images/l-js.png" class="img-center"></a><br><hr>
+
+
+<IMG width="200px" height="150px" src="images/py.png" class="img-center">
+<h5>A popular programming language</h5><br>
+<a href="links/l-py.html">
+<IMG src="images/l-py.png" class="img-center"></a><br><hr>
+
+
+<IMG src="images/sql.png" class="img-center">
+<h5>A language for accessing databases</h5><br>
+<a href="links/l-sql.html">
+<IMG src="images/l-sql.png" class="img-center"></a><br><hr>
+
+
+<IMG src="images/php.png" class="img-center">
+<h5>A web server programming language</h5><br>
+<a href="links/l-php.html">
+<IMG src="images/l-php.png" class="img-center"></a><br><hr>
+
+
+<IMG width="290" height="170" src="images/jq.png" class="img-center">
+<h5>A JS library for developing web pages</h5><br>
+<a href="links/l-jq.html">
+<IMG src="images/l-jq.png" class="img-center"></a><br><hr>
+
+
+<IMG src="images/java.png" class="img-center">
+<h5>A programming language</h5><br>
+<a href="links/l-java.html">
+<IMG src="images/l-java.png" class="img-center"></a><br><hr>
+
+
+
+<IMG src="images/c++.png" class="img-center">
+<h5>A programming language</h5><br>
+<a href="links/l-c++.html">
+<IMG src="images/l-c++.png" class="img-center"></a><br> <hr>
+
+
+<IMG width="290" height="170" src="images/bt.png" class="img-center">
+<h5>A CSS framework for designing better web pages</h5><br>
+<a href="links/l-bt.html">
+<IMG src="images/l-bt.png" class="img-center"></a><br><hr>
+
+
+
+<IMG src="images/vbs.png" class="img-center">
+<h5>A programming language for dislaying messages</h5><br>
+<a href="links/l-vbs.html">
+<IMG src="images/l-vbs.png" class="img-center"></a><br><hr>
+
+
+<IMG width="290" height="170" src="images/bat.png" class="img-center">
+<h5>A simple programming language that can run on cmd </h5><br>
+<a href="links/l-bat.html">
+<IMG src="images/l-bat.png" class="img-center"></a><br><hr>
+</div></div></style>
+
+<h4 style="text-align: center"><h4 style="color:green";><h4 style="font-size:99%;">
+
+<ul>
+<li><a href="C:\Users\USER\Desktop\Offline Web\links\interest\Quiz/quiz.html"><b>Quiz</a></li>
+<li><a href="C:\Users\USER\Desktop\Offline Web\links\interest\Templates/templates.html">Templates</a></li>
+<li><a href="C:\Users\USER\Desktop\Offline Web\links\interest\Common Secrets/common secrets.html">Common Secrets</b></a></li>
+</ul>
+<p style="font-size: 17px">Presdor Offline Center is an offline page or web build for the purpose of teaching,leraning,programming
+languages for beginners and also you can download or copy codes.</p>
+<h1 style="color:blue;"><ins>Tips!</ins></h1>
+
+<p style="text-align: center"><p style="font-size:99%;">
+<p style="color:red;text-align: center;">For more information about <b>HTML,CSS,JS</b> etc, and other programming languages visit the <a href="http://www.w3school.com"><b>W3school.com</b></a><br></div></p>
+<button>Hold that</button> 
+<div class="top"><a href="#top">Back To Top</a></div></div>
+</body>
+</html>
